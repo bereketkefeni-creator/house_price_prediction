@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31652002/README.md)
+ 
 # 🏠 House Price Prediction (Ames Housing)
 
 Predicting house sale prices on the **Ames Housing dataset** using Gradient Boosting, with proper cross-validation and hyperparameter tuning via `GridSearchCV`. This isn't just "train one model and ship it" — the notebook walks through four experiments, each one fixing a weakness in the last, before landing on a tuned Gradient Boosting model and analyzing exactly where it still gets things wrong.
