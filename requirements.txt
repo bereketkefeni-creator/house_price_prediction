@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+jupyter
+
+# this or "requirements.txt" mean these are the packages required to run this project
