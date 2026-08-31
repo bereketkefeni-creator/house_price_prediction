@@ -154,8 +154,8 @@ Training set: **2,344 houses** · Test set: **586 houses** (80/20 split, `random
 ## Setup
 
 ```bash
-git clone https://github.com/bereketkefeni-creator/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/bereketkefeni-creator/house_price_prediction.git
+cd  https://github.com/bereketkefeni-creator/house_price_prediction.git
 pip install -r requirements.txt
 ```
 
@@ -199,5 +199,5 @@ Since the model is a full pipeline (preprocessing + Gradient Boosting bundled to
 
 ## Author
 
-**Bereket (Mr. Bit)** — CS student, ASTU
+**Bereket (Mr. Bit)** — SW student, ASTU
 GitHub: [github.com/bereketkefeni-creator](https://github.com/bereketkefeni-creator)
